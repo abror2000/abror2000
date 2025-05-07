@@ -1,5 +1,7 @@
 Abror/README.md
+
 Hi there, I'm Abror 👋
+
 🚀 Frontend Developer | React.js & Next.js Enthusiast
 🔹 Passionate about building fast, scalable, and visually appealing web applications.
 🔹 2+ years of experience in frontend development with a strong focus on React.js, Next.js, TypeScript, and Node.js.
@@ -11,8 +13,10 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Tools & Platforms: Vite, Git, GitHub, Figma, VS Code
 Other: API Development, SEO, Performance Optimization
+
 📫 Connect with Me
 🌐 Portfolio: sariqdasturchi.uz)
 💼 LinkedIn: Sariqdasturchi
 📧 Email: sukhrobbozorov6@gmail.com
+
 Let's build something amazing together! 🚀
